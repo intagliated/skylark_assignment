@@ -1,4 +1,4 @@
-## Monday.com Business Intelligence Agent
+# Business Intelligence Agent
 <br>
 
 ## Problem Statement

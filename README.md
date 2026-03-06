@@ -1,5 +1,4 @@
-## Technical Assignment:
-#### Monday.com Business Intelligence Agent
+## Monday.com Business Intelligence Agent
 <br>
 
 ## Problem Statement

@@ -1,6 +1,6 @@
-# ASSIGNMENT
-
-## Technical Assignment: Monday.com Business Intelligence Agent
+## Technical Assignment:
+#### Monday.com Business Intelligence Agent
+<br>
 
 ## Problem Statement
 
@@ -11,6 +11,10 @@ Founders and executives need quick, accurate answers to business questions acros
 - Querying information across multiple boards (work orders, deals, pipeline)
 - Creating ad-hoc analysis for each query
 - Dealing with missing data and incomplete records
+
+
+
+
 
 **The Challenge:** Business data is messy. A founder asks "How's our pipeline looking for energy sector this quarter?" and someone needs to interpret that query, find relevant data across multiple boards, clean it, and provide meaningful insights.
 
@@ -90,6 +94,8 @@ This is optional bonus credit. How you interpret and implement this is up to you
 - What you'd do differently with more time
 - If you attempted the bonus: how you interpreted "leadership updates"
 
+<img width="1260" height="546" alt="image" src="https://github.com/user-attachments/assets/4a18e753-0078-41b5-854d-d036a026af42" />
+
 ### 3. Source Code
 - ZIP file
 - README with architecture overview and setup instructions for monday.com configuration
@@ -103,7 +109,6 @@ This is optional bonus credit. How you interpret and implement this is up to you
 
 ---
 
-## Maria Paul THurkadayil
 
 
-## Notes on Submission - Making more edits to the code and will be updated in the repository
+

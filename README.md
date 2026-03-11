@@ -107,7 +107,7 @@ This is optional bonus credit. How you interpret and implement this is up to you
 - **Tech Stack**: Your choice — justify your decisions in the Decision Log
 
 ---
-## Deployed Link : https://vercel.com/intagliateds-projects/skylark-assignment
+## Deployed Link : https://skylark-assignment-two.vercel.app/
 
 
 
